@@ -10,4 +10,4 @@ Follow these two simple steps:
 2. Click on the following link and tampermonkey should automatically detect it as a userscript and give you the option to "Install" or "Re-Install" or "Update" it:
    - [INSTALL: vision4s Admin Force Darkmode Tampermonkey Script](https://github.com/JuztFlow/v4s-force-darkmode/raw/main/v4s-force-darkmode.user.js)
 
-If it does not automatically detect the userscript and shows you white background with simple black text, you probably did not install or activate tampermonkey correctly, or you maybe use a script-blocking addon like "NoScript".
+If it does not automatically detect the userscript and shows you white background with simple black text, you probably did not install or activate tampermonkey correctly, or you might be using a script-blocking addon like "NoScript".
