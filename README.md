@@ -3,7 +3,7 @@ A simple tampermonkey script that forces darkmode on the admin page of vision4s.
 
 ## How-To
 
-Follow these two simple steps:
+Follow these three simple steps:
 
 1. Install the [tampermonkey browser extension](https://www.tampermonkey.net/?locale=en) in order to be able to run userscripts on page load.
 
